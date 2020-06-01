@@ -2,6 +2,4 @@
  automate whats app texts.
 
 
-
-
 .
