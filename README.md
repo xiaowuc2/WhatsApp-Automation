@@ -1,6 +1,5 @@
 # Automate_Whatsapp_Text
- automate whats app texts 
-
+ automate whats app texts.
 
 
 
